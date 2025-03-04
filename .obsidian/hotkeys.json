@@ -1,0 +1,28 @@
+{
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
+}

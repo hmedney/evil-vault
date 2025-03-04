@@ -1,0 +1,245 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "status": {
+          "options": [
+            "Backlog",
+            "Discovery",
+            "Active",
+            "Done"
+          ]
+        },
+        "component": {
+          "options": [
+            "controller",
+            "app",
+            "interface",
+            "managed-flink",
+            "managed-pulsar",
+            "billing",
+            "site",
+            "documentation",
+            "authentication",
+            "authorization",
+            "compliance",
+            "database",
+            "UX",
+            "deployment",
+            "engineering",
+            "jobs",
+            "workspace",
+            "kubernetes"
+          ]
+        },
+        "is_decision": {},
+        "is_3p": {}
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/Architecture",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "status",
+              "component",
+              "is_decision",
+              "path",
+              "is_3p"
+            ],
+            "fieldConfig": {
+              "name": {
+                "width": 314
+              },
+              "path": {
+                "hide": true
+              },
+              "is_decision": {
+                "width": 134
+              },
+              "decision": {
+                "width": 340
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6f413d5b-8043-48b0-aa06-dea325fa5fa3",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "name": {
+                "width": 295
+              },
+              "is_decision": {
+                "hide": true
+              },
+              "status": {
+                "width": 162
+              },
+              "decision": {
+                "width": 377
+              }
+            },
+            "orderFields": [
+              "name",
+              "component",
+              "status",
+              "is_3p",
+              "decision"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "is_decision",
+                "operator": "is-checked",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b2049e09-d4fd-42a1-82a0-834e465ffcf9",
+          "name": "Decisions",
+          "type": "table"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "component",
+              "name",
+              "3rd party",
+              "decision",
+              "status"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "component",
+                "order": "asc",
+                "enabled": true
+              },
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "8761d5f3-a0cc-41e2-91bf-9e9e59609084",
+          "name": "Components",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "columns": {
+              "Active": {
+                "records": [
+                  "Projects/Architecture/Create initial Quarkus app.md"
+                ]
+              },
+              "Backlog": {
+                "records": [
+                  "Projects/Architecture/API key generation.md",
+                  "Projects/Architecture/Decice authentication mechanisms.md",
+                  "Projects/Architecture/Decide UI framework.md",
+                  "Projects/Architecture/controller authentication.md",
+                  "Projects/Architecture/Decide app and controller protocol.md",
+                  "Projects/Architecture/Decide authentication 3rd party service.md",
+                  "Projects/Architecture/Decide authentication store.md",
+                  "Projects/Architecture/Decide controller language.md",
+                  "Projects/Architecture/Decide Postgres host.md",
+                  "Projects/Architecture/Database migrations.md"
+                ]
+              },
+              "No status": {
+                "records": []
+              }
+            },
+            "includeFields": [
+              "component"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "513bae3d-98c1-4a8a-ac01-d12e33fe8b36",
+          "name": "Kanban",
+          "type": "board"
+        }
+      ],
+      "id": "15a451b9-8860-4596-b9e4-a5dc972a075b",
+      "name": "Architecture"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [
+      {
+        "project": "15a451b9-8860-4596-b9e4-a5dc972a075b",
+        "view": "513bae3d-98c1-4a8a-ac01-d12e33fe8b36"
+      }
+    ],
+    "linkBehavior": "open-note"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "a4970266e13262c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec9df3a9b21c3b0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e894e5bcd39f9e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Tech stack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tech stack"
+            }
+          },
+          {
+            "id": "d706deb53c3bf6d4",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d07bd16226323ae6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b931aa6f3c1ecc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f67a4c5656e022c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a29e218ae7cada04",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "dce80f232b2cf775",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282
+  },
+  "right": {
+    "id": "f0d8cbb8531e6e83",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ab4fca3f3a7ac48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20a58a774618773e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "80d5759c1b91665f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/2024/09/2024-09-27.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-09-27"
+            }
+          },
+          {
+            "id": "107a2703a4fd7c26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/2024/09/2024-09-27.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-09-27"
+            }
+          },
+          {
+            "id": "d08d889ac4071a06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/2024/09/2024-09-27.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-09-27"
+            }
+          },
+          {
+            "id": "f996ca50fc811afc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d706deb53c3bf6d4",
+  "lastOpenFiles": [
+    "Projects/Architecture/Decide Kubernetes host.md",
+    "Architecture/Tech stack.md",
+    "Architecture/Principles.md",
+    "Architecture/Interfaces.md",
+    "Quests/Quarkus, TanStack, shadcn, PostgreSQL starter.md",
+    "Quests/React Router v7 UX and DX.md",
+    "Quests/Setup Obsidian with phone.md",
+    "Quests/Infrastructure-as-code.md",
+    "Projects/Architecture/Decide UI library.md",
+    "Projects/Architecture/Decide authentication protocol.md",
+    "Projects/Architecture/Decide multi-tenancy database design.md",
+    "Journal/2025/02/2025-02-24.md",
+    "assets/Pasted image 20250224040607.png",
+    "Projects/Architecture/Decide service communication protocol.md",
+    "Projects/Architecture/Decide controller language.md",
+    "Projects/Architecture/Decide tenant project artifact storage.md",
+    "Projects/Architecture/Decide feature flags.md",
+    "Projects/Architecture/Decide git flow.md",
+    "Projects/Architecture/Decide database kind.md",
+    "Journal/2025/02/2025-02-23.md",
+    "Projects/Architecture/Launching jobs.md",
+    "Projects/Architecture/API key generation.md",
+    "Projects/Architecture/Decice authentication mechanisms.md",
+    "Projects/Architecture/Database migrations.md",
+    "Journal/2024/08/2024-08-03.md",
+    "Journal/2024/09/2024-09-15.md",
+    "Journal/2024/09/2024-09-21.md",
+    "Journal/2024/12",
+    "Journal/2024/09",
+    "Journal/2024/08",
+    "Journal/2024/07",
+    "Journal/2024/06",
+    "Journal/2024",
+    "Projects/Architecture",
+    "Projects",
+    "assets/Pasted image 20241217234455.png",
+    "assets",
+    "Brainstorm",
+    "Quests/Quest Canvas.canvas",
+    "Untitled 1.canvas",
+    "UX/flow.webp",
+    "UX/flow.svg",
+    "UX/Untitled.canvas",
+    "flow.svg",
+    "Diagram.svg",
+    "Untitled Diagram 1.svg",
+    "Untitled Diagram.svg",
+    "Pasted image 20240624000812.png"
+  ]
+}
