@@ -2,5 +2,7 @@
   "obsidian-image-toolkit",
   "url-into-selection",
   "mermaid-popup",
-  "dataview"
+  "dataview",
+  "obsidian-git",
+  "obsidian-projects"
 ]
