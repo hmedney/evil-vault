@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ec9df3a9b21c3b0d",
+        "id": "1a0f3f576a95a57d",
         "type": "tabs",
         "children": [
           {
-            "id": "e894e5bcd39f9e07",
+            "id": "7d8b57edf22777a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Tech stack.md",
+                "file": "Journal/2025/03/2025-03-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tech stack"
-            }
-          },
-          {
-            "id": "d706deb53c3bf6d4",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "2025-03-04"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,24 +143,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024/09/2024-09-27.md"
+                "file": "Journal/2025/03/2025-03-04.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-09-27"
-            }
-          },
-          {
-            "id": "f996ca50fc811afc",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of 2025-03-04"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,8 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d706deb53c3bf6d4",
+  "active": "dce80f232b2cf775",
   "lastOpenFiles": [
+    "Survival",
+    "Journal/2025/03/2025-03-04.md",
+    "Journal/2025/03",
+    "Journal/2025",
+    "Journal",
     "Projects/Architecture/Decide Kubernetes host.md",
     "Architecture/Tech stack.md",
     "Architecture/Principles.md",
@@ -214,8 +201,6 @@
     "Projects/Architecture/Decice authentication mechanisms.md",
     "Projects/Architecture/Database migrations.md",
     "Journal/2024/08/2024-08-03.md",
-    "Journal/2024/09/2024-09-15.md",
-    "Journal/2024/09/2024-09-21.md",
     "Journal/2024/12",
     "Journal/2024/09",
     "Journal/2024/08",
@@ -223,10 +208,7 @@
     "Journal/2024/06",
     "Journal/2024",
     "Projects/Architecture",
-    "Projects",
     "assets/Pasted image 20241217234455.png",
-    "assets",
-    "Brainstorm",
     "Quests/Quest Canvas.canvas",
     "Untitled 1.canvas",
     "UX/flow.webp",
