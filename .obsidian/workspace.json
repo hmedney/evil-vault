@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25d0408d236d7ac0",
+        "id": "f7bab16a5a21c58f",
         "type": "tabs",
         "children": [
           {
-            "id": "74996c82ad9afa9c",
+            "id": "73cdf5d057c1e5b4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -101,39 +101,6 @@
             }
           },
           {
-            "id": "80d5759c1b91665f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Journal/2024/09/2024-09-27.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2024-09-27"
-            }
-          },
-          {
-            "id": "107a2703a4fd7c26",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Journal/2024/09/2024-09-27.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2024-09-27"
-            }
-          },
-          {
             "id": "d08d889ac4071a06",
             "type": "leaf",
             "state": {
@@ -158,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,9 +143,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "74996c82ad9afa9c",
+  "active": "73cdf5d057c1e5b4",
   "lastOpenFiles": [
     "Projects/Tasks/Survival research.md",
+    "Survival/Article - Don’t Get Crushed When the World Goes Sideways in 2025–2029 A Field Guide.md",
     "resources",
     "resources/Don’t Get Crushed When the World Goes Sideways in 2025–2029_ A Field Guide _ by James Christopher _ Predict _ Medium.pdf",
     "Journal/2025/03/2025-03-04.md",

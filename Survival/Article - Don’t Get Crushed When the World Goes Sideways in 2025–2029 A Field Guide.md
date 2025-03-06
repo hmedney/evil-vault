@@ -1,0 +1,1 @@
+![[Don’t Get Crushed When the World Goes Sideways in 2025–2029_ A Field Guide _ by James Christopher _ Predict _ Medium.pdf]]
