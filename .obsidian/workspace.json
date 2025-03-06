@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1a0f3f576a95a57d",
+        "id": "1871cdc4455aa300",
         "type": "tabs",
         "children": [
           {
-            "id": "7d8b57edf22777a1",
+            "id": "e642be88a187d8d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2025/03/2025-03-04.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-03-04"
-            }
-          },
-          {
-            "id": "d8a2dc81faa9353c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Tasks/test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "test"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Tasks/test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline"
             }
           }
         ],
@@ -186,12 +166,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d8a2dc81faa9353c",
+  "active": "e642be88a187d8d4",
   "lastOpenFiles": [
-    "Projects/Tasks/test.md",
+    "Journal/2025/03/2025-03-04.md",
+    "Projects/Tasks/Find news sources.md",
+    "Projects/Tasks/Prepping.md",
+    "Projects/Tasks/Places to flee.md",
+    "Projects/Tasks/Survival research.md",
     "Projects/Tasks",
     "Projects",
-    "Journal/2025/03/2025-03-04.md",
     "Survival",
     "Journal/2025/03",
     "Journal/2025",
@@ -218,9 +201,6 @@
     "Journal/2025/02/2025-02-23.md",
     "Projects/Architecture/Launching jobs.md",
     "Projects/Architecture/API key generation.md",
-    "Projects/Architecture/Decice authentication mechanisms.md",
-    "Projects/Architecture/Database migrations.md",
-    "Journal/2024/08/2024-08-03.md",
     "Journal/2024/12",
     "Journal/2024/09",
     "Journal/2024/08",
