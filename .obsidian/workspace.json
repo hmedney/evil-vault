@@ -11,10 +11,14 @@
             "id": "73cdf5d057c1e5b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2025/03/2025-03-24.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-03-24"
             }
           }
         ]
@@ -106,12 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Journal/2025/03/2025-03-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-03-24"
             }
           },
           {
@@ -164,11 +169,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-projects:Open projects": false
@@ -176,6 +181,7 @@
   },
   "active": "73cdf5d057c1e5b4",
   "lastOpenFiles": [
+    "Journal/2025/03/2025-03-24.md",
     "Projects/Tasks/Survival research.md",
     "Survival/Article - Don’t Get Crushed When the World Goes Sideways in 2025–2029 A Field Guide.md",
     "resources",
@@ -210,7 +216,6 @@
     "Projects/Architecture/Decide git flow.md",
     "Projects/Architecture/Decide database kind.md",
     "Journal/2025/02/2025-02-23.md",
-    "Projects/Architecture/Launching jobs.md",
     "Journal/2024/12",
     "Journal/2024/09",
     "assets/Pasted image 20241217234455.png",
