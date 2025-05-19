@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f7bab16a5a21c58f",
+        "id": "25c0b1eb52d1bc3b",
         "type": "tabs",
         "children": [
           {
-            "id": "73cdf5d057c1e5b4",
+            "id": "1e56f91b250de680",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2025/03/2025-03-24.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-03-24"
+              "title": "New tab"
             }
           }
         ]
@@ -110,13 +106,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2025/03/2025-03-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-24"
+              "title": "Outline"
             }
           },
           {
@@ -179,9 +174,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "73cdf5d057c1e5b4",
+  "active": "1e56f91b250de680",
   "lastOpenFiles": [
+    "Clippings/(27) A real question from a Trump supporter ‘Why do liberals think Trump supporters are stupid’THE SERIOUS ANSWER Here’s what the majority of anti-Trump voters honestly feel about Trump supporters en masseThat when you saw a man who had owned a.md",
+    "Journal/2025/04/2025-04-10.md",
+    "Clippings",
     "Journal/2025/03/2025-03-24.md",
+    "Journal/2025/04",
     "Projects/Tasks/Survival research.md",
     "Survival/Article - Don’t Get Crushed When the World Goes Sideways in 2025–2029 A Field Guide.md",
     "resources",
@@ -214,10 +213,6 @@
     "Projects/Architecture/Decide tenant project artifact storage.md",
     "Projects/Architecture/Decide feature flags.md",
     "Projects/Architecture/Decide git flow.md",
-    "Projects/Architecture/Decide database kind.md",
-    "Journal/2025/02/2025-02-23.md",
-    "Journal/2024/12",
-    "Journal/2024/09",
     "assets/Pasted image 20241217234455.png",
     "Quests/Quest Canvas.canvas",
     "Untitled 1.canvas",
