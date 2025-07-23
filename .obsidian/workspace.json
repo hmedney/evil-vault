@@ -11,10 +11,14 @@
             "id": "1e56f91b250de680",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2025/05/2025-05-19.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-05-19"
             }
           }
         ]
@@ -106,12 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Journal/2025/05/2025-05-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-05-19"
             }
           },
           {
@@ -176,6 +181,8 @@
   },
   "active": "1e56f91b250de680",
   "lastOpenFiles": [
+    "Journal/2025/05/2025-05-19.md",
+    "Journal/2025/05",
     "Clippings/(27) A real question from a Trump supporter ‘Why do liberals think Trump supporters are stupid’THE SERIOUS ANSWER Here’s what the majority of anti-Trump voters honestly feel about Trump supporters en masseThat when you saw a man who had owned a.md",
     "Journal/2025/04/2025-04-10.md",
     "Clippings",
@@ -194,7 +201,6 @@
     "Survival",
     "Journal/2025/03",
     "Journal/2025",
-    "Journal",
     "Projects/Architecture/Decide Kubernetes host.md",
     "Architecture/Tech stack.md",
     "Architecture/Principles.md",
@@ -212,7 +218,6 @@
     "Projects/Architecture/Decide controller language.md",
     "Projects/Architecture/Decide tenant project artifact storage.md",
     "Projects/Architecture/Decide feature flags.md",
-    "Projects/Architecture/Decide git flow.md",
     "assets/Pasted image 20241217234455.png",
     "Quests/Quest Canvas.canvas",
     "Untitled 1.canvas",
